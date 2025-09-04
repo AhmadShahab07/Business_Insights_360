@@ -4,11 +4,7 @@
 
 The goal of this project was to transform raw business data into actionable insights by integrating multiple sources, applying advanced data modelling, and creating an interactive, user-friendly dashboard.
 
-Project Walkthrough Video 📽️:  
- [Watch on YouTube](https://youtu.be/n-B3MeFHRQE)  
-
-
-
+Project Walkthrough Video 📽️: [Watch on YouTube](https://youtu.be/n-B3MeFHRQE)  
 Live Dashboard 🔗: **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGUzODIzODQtZDhhNS00ZTVjLWFmYTYtMWRjMTAxOGE3OTI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=09147beda2932fc5f91e)** 
 
 ## 🔎 Project Overview  
