@@ -4,7 +4,7 @@
 
 The goal of this project was to transform raw business data into actionable insights by integrating multiple sources, applying advanced data modelling, and creating an interactive, user-friendly dashboard.
 
-Video: ## 📽️ Project Walkthrough Video  
+Project Walkthrough Video 📽️:  
 [![Watch the video](https://img.youtube.com/vi/n-B3MeFHRQE/0.jpg)](https://youtu.be/n-B3MeFHRQE)  
 
 
